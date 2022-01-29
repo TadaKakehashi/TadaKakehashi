@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Aryan or you can call me Tada XD
+- 👀 I’m just a newbie learning new stuff everyday
