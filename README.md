@@ -1,2 +1,4 @@
-- 👋 Hi, I’m Aryan or you can call me Tada XD
-- 👀 I’m just a newbie learning new stuff everyday
+- Just got into my second year of computer science and engineering.
+- Familiar with C and C++
+- Completed DSA in C
+- Just starting Web Development
