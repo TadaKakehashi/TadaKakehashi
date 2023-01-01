@@ -1,4 +1,4 @@
 - Just got into my second year of computer science and engineering.
 - Familiar with C and C++
 - Completed DSA in C
-- Just starting Web Development
+- Learning Web Development and Python
